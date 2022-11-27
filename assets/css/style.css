@@ -6,42 +6,44 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
-    height: 10vh;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .Card-Profile {
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0 10px 30px -15px gray;
-    border-radius: 8px;
-    width: 300px;
-    margin: auto;
-    margin-top: 80px;
+    border-radius: 1rem;
+    width: 20rem;
 }
 
-.Card-Profile-Img img{
+.Card-Profile img{
     width: 90%;
-    border-radius: 23px;
-    padding: 15px;
+    border-radius: 1.5rem;
+    padding: 1rem;
 }
 
 .Card-Profile-Item {
-    padding: 14px;
+    padding: 0.4rem 1.5rem 1.5rem 1.5rem;
     text-align: center;
 }
 
 .Card-Profile-Item h1 {
-    font-size: 22px;
+    font-size: 1.3rem;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    margin-bottom: 0.5rem;
 }
 
 .Card-Profile-Item p {
-    font-size: 15px;
+    font-size: 1rem;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
 
-.attribution {
+footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -50,7 +52,7 @@ body {
     background-color: hsl(218, 44%, 22%);
     color: white;
 }
-.attribution a {
+footer a {
     text-decoration: none;
     color: hsl(220, 15%, 55%);
 }

@@ -30,6 +30,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5
 - CSS custom properties
 
+### Changelog
+
+- Change Div to article for better accessibility
+- Remove Margin from .Card-Profile
+- Use rem instead of px
+- Use Flexbox to center the card instead of manual margin
+- Remove unnecessary code
+
 ## Author
 
 - Frontend Mentor - [@Rizqy-617](https://www.frontendmentor.io/profile/yourusername)
