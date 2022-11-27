@@ -42,6 +42,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@Rizqy-617](https://www.frontendmentor.io/profile/yourusername)
-- Instagram - [@yourusername](https://www.instagram.com/rizqy.617)
+- Instagram - [@rizqy.617](https://www.instagram.com/rizqy.617)
 
 
